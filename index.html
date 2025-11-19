@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Which Country Is Bigger?</title>
+    <style>
+      body {
+        font-family:
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          sans-serif;
+        margin: 0;
+        padding: 2rem;
+        background: #0f172a;
+        color: #e5e7eb;
+      }
+      h1 {
+        margin-bottom: 0.5rem;
+      }
+      .panel {
+        background: #111827;
+        border-radius: 12px;
+        padding: 1.5rem;
+        margin-bottom: 1.5rem;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+      }
+      button {
+        cursor: pointer;
+        border-radius: 999px;
+        border: none;
+        padding: 0.6rem 1.2rem;
+        font-size: 0.9rem;
+        font-weight: 600;
+        background: #2563eb;
+        color: white;
+        margin-right: 0.5rem;
+      }
+      button.secondary {
+        background: #4b5563;
+      }
+      button:disabled {
+        opacity: 0.6;
+        cursor: default;
+      }
+      .countries {
+        display: flex;
+        gap: 1rem;
+        margin-top: 1rem;
+      }
+      .country-card {
+        flex: 1;
+        background: #020617;
+        border-radius: 12px;
+        padding: 1rem;
+        text-align: center;
+        border: 1px solid #1f2937;
+      }
+      .status {
+        margin-top: 0.5rem;
+        font-weight: 500;
+      }
+      .result {
+        margin-top: 1rem;
+        font-size: 1.1rem;
+      }
+      .scoreline {
+        margin-top: 0.5rem;
+        font-size: 0.95rem;
+        color: #9ca3af;
+      }
+      .country-meta {
+        margin-top: 0.5rem;
+        font-size: 0.85rem;
+        color: #9ca3af;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Which Country Is Bigger?</h1>
+    <div class="panel">
+      <div>
+        <strong>Mode:</strong> Land Area (which country is bigger by area?)
+      </div>
+      <div style="margin-top: 1rem">
+        <button id="start-game">Start Game</button>
+      </div>
+      <div id="status" class="status"></div>
+      <div class="scoreline">Score: <span id="score">0</span></div>
+    </div>
+
+    <div class="panel">
+      <div><strong>Which country is bigger?</strong></div>
+      <div class="countries">
+        <div class="country-card">
+          <button id="country-left" disabled>Left country</button>
+          <div class="country-meta">
+            <span id="country-left-size"></span>
+          </div>
+        </div>
+        <div class="country-card">
+          <button id="country-right" disabled>Right country</button>
+          <div class="country-meta">
+            <span id="country-right-size"></span>
+          </div>
+        </div>
+      </div>
+      <div style="margin-top: 1rem">
+        <button id="next-round" disabled>Next</button>
+      </div>
+      <div id="result" class="result"></div>
+    </div>
+
+    <script type="module" src="src/main.js"></script>
+  </body>
+</html>

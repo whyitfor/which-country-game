@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "Syrian Arab Republic",
+    "code": "SYR",
+    "population": 25620000,
+    "area": 185180.0
+  },
+  {
+    "name": "New Zealand",
+    "code": "NZL",
+    "population": 5324700,
+    "area": 268838.0
+  },
+  {
+    "name": "Nation of Brunei, Abode of Peace",
+    "code": "BRN",
+    "population": 455500,
+    "area": 5765.0
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "code": "IOT",
+    "population": 0,
+    "area": 60.0
+  },
+  {
+    "name": "Republic of Kenya",
+    "code": "KEN",
+    "population": 53330978,
+    "area": 580367.0
+  },
+  {
+    "name": "Republic of Palau",
+    "code": "PLW",
+    "population": 16733,
+    "area": 459.0
+  },
+  {
+    "name": "Sultanate of Oman",
+    "code": "OMN",
+    "population": 5343630,
+    "area": 309500.0
+  },
+  {
+    "name": "United Mexican States",
+    "code": "MEX",
+    "population": 130575786,
+    "area": 1964375.0
+  },
+  {
+    "name": "State of Palestine",
+    "code": "PSE",
+    "population": 5483450,
+    "area": 6220.0
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "code": "TCA",
+    "population": 50828,
+    "area": 948.0
+  },
+  {
+    "name": "Central African Republic",
+    "code": "CAF",
+    "population": 6470307,
+    "area": 622984.0
+  },
+  {
+    "name": "Federation of Saint Christopher and Nevis",
+    "code": "KNA",
+    "population": 51320,
+    "area": 261.0
+  },
+  {
+    "name": "Republic of South Sudan",
+    "code": "SSD",
+    "population": 15786898,
+    "area": 619745.0
+  },
+  {
+    "name": "Ukraine",
+    "code": "UKR",
+    "population": 32862000,
+    "area": 603550.0
+  },
+  {
+    "name": "Collectivity of Saint Barth\u00e9lemy",
+    "code": "BLM",
+    "population": 10562,
+    "area": 21.0
+  },
+  {
+    "name": "Kingdom of the Netherlands",
+    "code": "NLD",
+    "population": 18100436,
+    "area": 41865.0
+  },
+  {
+    "name": "United Republic of Tanzania",
+    "code": "TZA",
+    "population": 68153004,
+    "area": 947303.0
+  },
+  {
+    "name": "Czech Republic",
+    "code": "CZE",
+    "population": 10882341,
+    "area": 78865.0
+  },
+  {
+    "name": "Republic of Belarus",
+    "code": "BLR",
+    "population": 9109280,
+    "area": 207600.0
+  },
+  {
+    "name": "Republic of Yemen",
+    "code": "YEM",
+    "population": 32684503,
+    "area": 527968.0
+  },
+  {
+    "name": "Republic of Slovenia",
+    "code": "SVN",
+    "population": 2130638,
+    "area": 20273.0
+  },
+  {
+    "name": "Tokelau",
+    "code": "TKL",
+    "population": 2608,
+    "area": 12.0
+  },
+  {
+    "name": "Federal Republic of Nigeria",
+    "code": "NGA",
+    "population": 223800000,
+    "area": 923768.0
+  },
+  {
+    "name": "R\u00e9union Island",
+    "code": "REU",
+    "population": 896175,
+    "area": 2511.0
+  },
+  {
+    "name": "Guadeloupe",
+    "code": "GLP",
+    "population": 378561,
+    "area": 1628.0
+  },
+  {
+    "name": "Hungary",
+    "code": "HUN",
+    "population": 9539502,
+    "area": 93028.0
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "code": "HMD",
+    "population": 0,
+    "area": 412.0
+  },
+  {
+    "name": "Kingdom of Eswatini",
+    "code": "SWZ",
+    "population": 1235549,
+    "area": 17364.0
+  },
+  {
+    "name": "Union of the Comoros",
+    "code": "COM",
+    "population": 919901,
+    "area": 1862.0
+  },
+  {
+    "name": "Republic of India",
+    "code": "IND",
+    "population": 1417492000,
+    "area": 3287263.0
+  },
+  {
+    "name": "Territory of the Cocos (Keeling) Islands",
+    "code": "CCK",
+    "population": 593,
+    "area": 14.0
+  },
+  {
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "code": "GBR",
+    "population": 69281437,
+    "area": 244376.0
+  },
+  {
+    "name": "Republic of Angola",
+    "code": "AGO",
+    "population": 36170961,
+    "area": 1246700.0
+  },
+  {
+    "name": "Macao Special Administrative Region of the People's Republic of China",
+    "code": "MAC",
+    "population": 685900,
+    "area": 30.0
+  },
+  {
+    "name": "Republic of Costa Rica",
+    "code": "CRI",
+    "population": 5309625,
+    "area": 51100.0
+  },
+  {
+    "name": "Niue",
+    "code": "NIU",
+    "population": 1681,
+    "area": 260.0
+  },
+  {
+    "name": "Cook Islands",
+    "code": "COK",
+    "population": 15040,
+    "area": 236.0
+  },
+  {
+    "name": "Republic of Djibouti",
+    "code": "DJI",
+    "population": 1066809,
+    "area": 23200.0
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "code": "SPM",
+    "population": 5819,
+    "area": 242.0
+  },
+  {
+    "name": "Republic of Austria",
+    "code": "AUT",
+    "population": 9200931,
+    "area": 83871.0
+  },
+  {
+    "name": "Republic of Indonesia",
+    "code": "IDN",
+    "population": 284438782,
+    "area": 1904569.0
+  },
+  {
+    "name": "Republic of Nauru",
+    "code": "NRU",
+    "population": 11680,
+    "area": 21.0
+  },
+  {
+    "name": "Republic of Kazakhstan",
+    "code": "KAZ",
+    "population": 20426568,
+    "area": 2724900.0
+  },
+  {
+    "name": "Republic of Malawi",
+    "code": "MWI",
+    "population": 20734262,
+    "area": 118484.0
+  },
+  {
+    "name": "State of Eritrea",
+    "code": "ERI",
+    "population": 3607000,
+    "area": 117600.0
+  },
+  {
+    "name": "Tunisian Republic",
+    "code": "TUN",
+    "population": 11972169,
+    "area": 163610.0
+  },
+  {
+    "name": "Pitcairn Group of Islands",
+    "code": "PCN",
+    "population": 35,
+    "area": 47.0
+  },
+  {
+    "name": "Kingdom of Saudi Arabia",
+    "code": "SAU",
+    "population": 35300280,
+    "area": 2149690.0
+  },
+  {
+    "name": "Turkmenistan",
+    "code": "TKM",
+    "population": 7057841,
+    "area": 488100.0
+  },
+  {
+    "name": "Sahrawi Arab Democratic Republic",
+    "code": "ESH",
+    "population": 600904,
+    "area": 266000.0
+  },
+  {
+    "name": "Republic of Ghana",
+    "code": "GHA",
+    "population": 33742380,
+    "area": 238533.0
+  },
+  {
+    "name": "Tuvalu",
+    "code": "TUV",
+    "population": 10643,
+    "area": 26.0
+  },
+  {
+    "name": "Republic of the Union of Myanmar",
+    "code": "MMR",
+    "population": 51316756,
+    "area": 676578.0
+  },
+  {
+    "name": "Gabonese Republic",
+    "code": "GAB",
+    "population": 2469296,
+    "area": 267668.0
+  },
+  {
+    "name": "Republic of Cuba",
+    "code": "CUB",
+    "population": 9748007,
+    "area": 109884.0
+  },
+  {
+    "name": "People's Republic of China",
+    "code": "CHN",
+    "population": 1408280000,
+    "area": 9706961.0
+  },
+  {
+    "name": "Republic of Panama",
+    "code": "PAN",
+    "population": 4064780,
+    "area": 75417.0
+  },
+  {
+    "name": "Kingdom of Thailand",
+    "code": "THA",
+    "population": 65859640,
+    "area": 513120.0
+  },
+  {
+    "name": "Russian Federation",
+    "code": "RUS",
+    "population": 146028325,
+    "area": 17098246.0
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "code": "BIH",
+    "population": 3422000,
+    "area": 51209.0
+  },
+  {
+    "name": "State of Qatar",
+    "code": "QAT",
+    "population": 3173024,
+    "area": 11586.0
+  },
+  {
+    "name": "Bouvet Island",
+    "code": "BVT",
+    "population": 0,
+    "area": 49.0
+  },
+  {
+    "name": "Republic of Iraq",
+    "code": "IRQ",
+    "population": 46118793,
+    "area": 438317.0
+  },
+  {
+    "name": "Republic of Tajikistan",
+    "code": "TJK",
+    "population": 10499000,
+    "area": 143100.0
+  },
+  {
+    "name": "Co-operative Republic of Guyana",
+    "code": "GUY",
+    "population": 772975,
+    "area": 214969.0
+  },
+  {
+    "name": "Solomon Islands",
+    "code": "SLB",
+    "population": 750325,
+    "area": 28896.0
+  },
+  {
+    "name": "Slovak Republic",
+    "code": "SVK",
+    "population": 5413813,
+    "area": 49037.0
+  },
+  {
+    "name": "Gibraltar",
+    "code": "GIB",
+    "population": 38000,
+    "area": 6.0
+  },
+  {
+    "name": "Republic of Peru",
+    "code": "PER",
+    "population": 34350244,
+    "area": 1285216.0
+  },
+  {
+    "name": "Commonwealth of Puerto Rico",
+    "code": "PRI",
+    "population": 3203295,
+    "area": 8870.0
+  },
+  {
+    "name": "Republic of Armenia",
+    "code": "ARM",
+    "population": 3076200,
+    "area": 29743.0
+  },
+  {
+    "name": "Republic of Azerbaijan",
+    "code": "AZE",
+    "population": 10241722,
+    "area": 86600.0
+  },
+  {
+    "name": "Islamic Republic of Mauritania",
+    "code": "MRT",
+    "population": 4927532,
+    "area": 1030700.0
+  },
+  {
+    "name": "Belize",
+    "code": "BLZ",
+    "population": 417634,
+    "area": 22966.0
+  },
+  {
+    "name": "Anguilla",
+    "code": "AIA",
+    "population": 16010,
+    "area": 91.0
+  },
+  {
+    "name": "Republic of Seychelles",
+    "code": "SYC",
+    "population": 122729,
+    "area": 452.0
+  },
+  {
+    "name": "Territory of Norfolk Island",
+    "code": "NFK",
+    "population": 2188,
+    "area": 36.0
+  },
+  {
+    "name": "Republic of the Philippines",
+    "code": "PHL",
+    "population": 114123600,
+    "area": 342353.0
+  },
+  {
+    "name": "Argentine Republic",
+    "code": "ARG",
+    "population": 46735004,
+    "area": 2780400.0
+  },
+  {
+    "name": "Republic of Moldova",
+    "code": "MDA",
+    "population": 2749076,
+    "area": 33847.0
+  },
+  {
+    "name": "Independent State of Samoa",
+    "code": "WSM",
+    "population": 205557,
+    "area": 2842.0
+  },
+  {
+    "name": "Antarctica",
+    "code": "ATA",
+    "population": 1300,
+    "area": 14000000.0
+  },
+  {
+    "name": "Republic of Sierra Leone",
+    "code": "SLE",
+    "population": 9077691,
+    "area": 71740.0
+  },
+  {
+    "name": "Kingdom of Cambodia",
+    "code": "KHM",
+    "population": 17577760,
+    "area": 181035.0
+  },
+  {
+    "name": "Republic of Vanuatu",
+    "code": "VUT",
+    "population": 321409,
+    "area": 12189.0
+  },
+  {
+    "name": "Hashemite Kingdom of Jordan",
+    "code": "JOR",
+    "population": 11734000,
+    "area": 89342.0
+  },
+  {
+    "name": "Martinique",
+    "code": "MTQ",
+    "population": 349925,
+    "area": 1128.0
+  },
+  {
+    "name": "Kingdom of Tonga",
+    "code": "TON",
+    "population": 100179,
+    "area": 747.0
+  },
+  {
+    "name": "Virgin Islands",
+    "code": "VGB",
+    "population": 39471,
+    "area": 151.0
+  },
+  {
+    "name": "Democratic Republic of Timor-Leste",
+    "code": "TLS",
+    "population": 1391221,
+    "area": 14874.0
+  },
+  {
+    "name": "French Polynesia",
+    "code": "PYF",
+    "population": 279500,
+    "area": 4167.0
+  },
+  {
+    "name": "Republic of Turkey",
+    "code": "TUR",
+    "population": 85664944,
+    "area": 783562.0
+  },
+  {
+    "name": "Bailiwick of Guernsey",
+    "code": "GGY",
+    "population": 64781,
+    "area": 78.0
+  },
+  {
+    "name": "Republic of Senegal",
+    "code": "SEN",
+    "population": 18593258,
+    "area": 196722.0
+  },
+  {
+    "name": "Republic of Guatemala",
+    "code": "GTM",
+    "population": 18079810,
+    "area": 108889.0
+  },
+  {
+    "name": "Republic of Poland",
+    "code": "POL",
+    "population": 37392000,
+    "area": 312679.0
+  },
+  {
+    "name": "Commonwealth of the Bahamas",
+    "code": "BHS",
+    "population": 398165,
+    "area": 13943.0
+  },
+  {
+    "name": "Faroe Islands",
+    "code": "FRO",
+    "population": 54885,
+    "area": 1393.0
+  },
+  {
+    "name": "Aruba",
+    "code": "ABW",
+    "population": 107566,
+    "area": 180.0
+  },
+  {
+    "name": "Dominican Republic",
+    "code": "DOM",
+    "population": 10771504,
+    "area": 48671.0
+  },
+  {
+    "name": "Hong Kong Special Administrative Region of the People's Republic of China",
+    "code": "HKG",
+    "population": 7527500,
+    "area": 1104.0
+  },
+  {
+    "name": "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "code": "STP",
+    "population": 209607,
+    "area": 964.0
+  },
+  {
+    "name": "Oriental Republic of Uruguay",
+    "code": "URY",
+    "population": 3499451,
+    "area": 181034.0
+  },
+  {
+    "name": "Bermuda",
+    "code": "BMU",
+    "population": 64055,
+    "area": 54.0
+  },
+  {
+    "name": "Territory of the Wallis and Futuna Islands",
+    "code": "WLF",
+    "population": 11620,
+    "area": 142.0
+  },
+  {
+    "name": "Republic of South Africa",
+    "code": "ZAF",
+    "population": 63100945,
+    "area": 1221037.0
+  },
+  {
+    "name": "State of Israel",
+    "code": "ISR",
+    "population": 10134800,
+    "area": 21937.0
+  },
+  {
+    "name": "Republic of San Marino",
+    "code": "SMR",
+    "population": 34132,
+    "area": 61.0
+  },
+  {
+    "name": "Republic of El Salvador",
+    "code": "SLV",
+    "population": 6029976,
+    "area": 21041.0
+  },
+  {
+    "name": "Mongolia",
+    "code": "MNG",
+    "population": 3544835,
+    "area": 1564110.0
+  },
+  {
+    "name": "American Samoa",
+    "code": "ASM",
+    "population": 49710,
+    "area": 199.0
+  },
+  {
+    "name": "Territory of the French Southern and Antarctic Lands",
+    "code": "ATF",
+    "population": 400,
+    "area": 7747.0
+  },
+  {
+    "name": "Republic of Zimbabwe",
+    "code": "ZWE",
+    "population": 17073087,
+    "area": 390757.0
+  },
+  {
+    "name": "Falkland Islands",
+    "code": "FLK",
+    "population": 3662,
+    "area": 12173.0
+  },
+  {
+    "name": "Republic of Croatia",
+    "code": "HRV",
+    "population": 3866233,
+    "area": 56594.0
+  },
+  {
+    "name": "Independent and Sovereign Republic of Kiribati",
+    "code": "KIR",
+    "population": 120740,
+    "area": 811.0
+  },
+  {
+    "name": "Republic of the Marshall Islands",
+    "code": "MHL",
+    "population": 42418,
+    "area": 181.0
+  },
+  {
+    "name": "Kingdom of Norway",
+    "code": "NOR",
+    "population": 5606944,
+    "area": 386224.0
+  },
+  {
+    "name": "Republic of Mali",
+    "code": "MLI",
+    "population": 22395489,
+    "area": 1240192.0
+  },
+  {
+    "name": "Republic of Zambia",
+    "code": "ZMB",
+    "population": 19693423,
+    "area": 752612.0
+  },
+  {
+    "name": "Republic of the Maldives",
+    "code": "MDV",
+    "population": 515132,
+    "area": 300.0
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "code": "ATG",
+    "population": 103603,
+    "area": 442.0
+  },
+  {
+    "name": "Territory of Christmas Island",
+    "code": "CXR",
+    "population": 1692,
+    "area": 135.0
+  },
+  {
+    "name": "Islamic Republic of Iran",
+    "code": "IRN",
+    "population": 85961000,
+    "area": 1648195.0
+  },
+  {
+    "name": "Italian Republic",
+    "code": "ITA",
+    "population": 58927633,
+    "area": 301336.0
+  },
+  {
+    "name": "Republic of the Gambia",
+    "code": "GMB",
+    "population": 2422712,
+    "area": 10689.0
+  },
+  {
+    "name": "Republic of Korea",
+    "code": "KOR",
+    "population": 51159889,
+    "area": 100210.0
+  },
+  {
+    "name": "Independent State of Papua New Guinea",
+    "code": "PNG",
+    "population": 11781559,
+    "area": 462840.0
+  },
+  {
+    "name": "Arab Republic of Egypt",
+    "code": "EGY",
+    "population": 107271260,
+    "area": 1002450.0
+  },
+  {
+    "name": "Isle of Man",
+    "code": "IMN",
+    "population": 84530,
+    "area": 572.0
+  },
+  {
+    "name": "Republic of Latvia",
+    "code": "LVA",
+    "population": 1829000,
+    "area": 64559.0
+  },
+  {
+    "name": "Republic of Paraguay",
+    "code": "PRY",
+    "population": 6109644,
+    "area": 406752.0
+  },
+  {
+    "name": "Grenada",
+    "code": "GRD",
+    "population": 109021,
+    "area": 344.0
+  },
+  {
+    "name": "Republic of Colombia",
+    "code": "COL",
+    "population": 53057212,
+    "area": 1141748.0
+  },
+  {
+    "name": "Republic of Finland",
+    "code": "FIN",
+    "population": 5650325,
+    "area": 338455.0
+  },
+  {
+    "name": "Republic of Bulgaria",
+    "code": "BGR",
+    "population": 6437360,
+    "area": 110879.0
+  },
+  {
+    "name": "Togolese Republic",
+    "code": "TGO",
+    "population": 8095498,
+    "area": 56785.0
+  },
+  {
+    "name": "Republic of Chile",
+    "code": "CHL",
+    "population": 20206953,
+    "area": 756102.0
+  },
+  {
+    "name": "Commonwealth of Dominica",
+    "code": "DMA",
+    "population": 67408,
+    "area": 751.0
+  },
+  {
+    "name": "Republic of Ireland",
+    "code": "IRL",
+    "population": 5458600,
+    "area": 70273.0
+  },
+  {
+    "name": "Republic of Botswana",
+    "code": "BWA",
+    "population": 2359609,
+    "area": 582000.0
+  },
+  {
+    "name": "Republic of Kosovo",
+    "code": "UNK",
+    "population": 1585566,
+    "area": 10908.0
+  },
+  {
+    "name": "United States of America",
+    "code": "USA",
+    "population": 340110988,
+    "area": 9525067.0
+  },
+  {
+    "name": "Republic of Uzbekistan",
+    "code": "UZB",
+    "population": 37859698,
+    "area": 447400.0
+  },
+  {
+    "name": "Federative Republic of Brazil",
+    "code": "BRA",
+    "population": 213421037,
+    "area": 8515767.0
+  },
+  {
+    "name": "Republic of Rwanda",
+    "code": "RWA",
+    "population": 14104969,
+    "area": 26338.0
+  },
+  {
+    "name": "Principality of Liechtenstein",
+    "code": "LIE",
+    "population": 40900,
+    "area": 160.0
+  },
+  {
+    "name": "Kingdom of Bhutan",
+    "code": "BTN",
+    "population": 784043,
+    "area": 38394.0
+  },
+  {
+    "name": "Montenegro",
+    "code": "MNE",
+    "population": 623327,
+    "area": 13812.0
+  },
+  {
+    "name": "Republic of Niger",
+    "code": "NER",
+    "population": 26312034,
+    "area": 1267000.0
+  },
+  {
+    "name": "Republic of Albania",
+    "code": "ALB",
+    "population": 2363314,
+    "area": 28748.0
+  },
+  {
+    "name": "Kingdom of Morocco",
+    "code": "MAR",
+    "population": 36828330,
+    "area": 446550.0
+  },
+  {
+    "name": "Bolivarian Republic of Venezuela",
+    "code": "VEN",
+    "population": 28517000,
+    "area": 916445.0
+  },
+  {
+    "name": "Republic of the Congo",
+    "code": "COG",
+    "population": 6142180,
+    "area": 342000.0
+  },
+  {
+    "name": "Republic of Burundi",
+    "code": "BDI",
+    "population": 12332788,
+    "area": 27834.0
+  },
+  {
+    "name": "Bailiwick of Jersey",
+    "code": "JEY",
+    "population": 103267,
+    "area": 116.0
+  },
+  {
+    "name": "Republic of North Macedonia",
+    "code": "MKD",
+    "population": 1822612,
+    "area": 25713.0
+  },
+  {
+    "name": "Kyrgyz Republic",
+    "code": "KGZ",
+    "population": 7281800,
+    "area": 199951.0
+  },
+  {
+    "name": "Romania",
+    "code": "ROU",
+    "population": 19036031,
+    "area": 238391.0
+  },
+  {
+    "name": "Guam",
+    "code": "GUM",
+    "population": 153836,
+    "area": 549.0
+  },
+  {
+    "name": "\u00c5land Islands",
+    "code": "ALA",
+    "population": 30654,
+    "area": 1580.0
+  },
+  {
+    "name": "Republic of Equatorial Guinea",
+    "code": "GNQ",
+    "population": 1668768,
+    "area": 28051.0
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "code": "SGS",
+    "population": 0,
+    "area": 3903.0
+  },
+  {
+    "name": "Guiana",
+    "code": "GUF",
+    "population": 292354,
+    "area": 83534.0
+  },
+  {
+    "name": "Federal Republic of Germany",
+    "code": "DEU",
+    "population": 83491249,
+    "area": 357114.0
+  },
+  {
+    "name": "Kingdom of Denmark",
+    "code": "DNK",
+    "population": 6011488,
+    "area": 43094.0
+  },
+  {
+    "name": "Iceland",
+    "code": "ISL",
+    "population": 391810,
+    "area": 103000.0
+  },
+  {
+    "name": "Federal Republic of Somalia",
+    "code": "SOM",
+    "population": 19655000,
+    "area": 637657.0
+  },
+  {
+    "name": "Federated States of Micronesia",
+    "code": "FSM",
+    "population": 105564,
+    "area": 702.0
+  },
+  {
+    "name": "Lao People's Democratic Republic",
+    "code": "LAO",
+    "population": 7647000,
+    "area": 236800.0
+  },
+  {
+    "name": "Sint Maarten",
+    "code": "SXM",
+    "population": 41349,
+    "area": 34.0
+  },
+  {
+    "name": "Republic of Liberia",
+    "code": "LBR",
+    "population": 5248621,
+    "area": 111369.0
+  },
+  {
+    "name": "Republic of Chad",
+    "code": "TCD",
+    "population": 19340757,
+    "area": 1284000.0
+  },
+  {
+    "name": "Commonwealth of Australia",
+    "code": "AUS",
+    "population": 27536874,
+    "area": 7692024.0
+  },
+  {
+    "name": "Burkina Faso",
+    "code": "BFA",
+    "population": 24070553,
+    "area": 272967.0
+  },
+  {
+    "name": "Republic of Malta",
+    "code": "MLT",
+    "population": 574250,
+    "area": 316.0
+  },
+  {
+    "name": "Commonwealth of the Northern Mariana Islands",
+    "code": "MNP",
+    "population": 47329,
+    "area": 464.0
+  },
+  {
+    "name": "Republic of Uganda",
+    "code": "UGA",
+    "population": 45905417,
+    "area": 241550.0
+  },
+  {
+    "name": "Kingdom of Spain",
+    "code": "ESP",
+    "population": 49315949,
+    "area": 505992.0
+  },
+  {
+    "name": "Republic of the Sudan",
+    "code": "SDN",
+    "population": 51662000,
+    "area": 1886068.0
+  },
+  {
+    "name": "Republic of China (Taiwan)",
+    "code": "TWN",
+    "population": 23317031,
+    "area": 36197.0
+  },
+  {
+    "name": "Islamic Republic of Afghanistan",
+    "code": "AFG",
+    "population": 43844000,
+    "area": 652230.0
+  },
+  {
+    "name": "Svalbard og Jan Mayen",
+    "code": "SJM",
+    "population": 2530,
+    "area": 61399.0
+  },
+  {
+    "name": "Republic of Fiji",
+    "code": "FJI",
+    "population": 900869,
+    "area": 18272.0
+  },
+  {
+    "name": "Republic of Guinea-Bissau",
+    "code": "GNB",
+    "population": 1781308,
+    "area": 36125.0
+  },
+  {
+    "name": "Principality of Andorra",
+    "code": "AND",
+    "population": 88406,
+    "area": 468.0
+  },
+  {
+    "name": "People's Democratic Republic of Algeria",
+    "code": "DZA",
+    "population": 47400000,
+    "area": 2381741.0
+  },
+  {
+    "name": "Portuguese Republic",
+    "code": "PRT",
+    "population": 10749635,
+    "area": 92090.0
+  },
+  {
+    "name": "Republic of Mozambique",
+    "code": "MOZ",
+    "population": 34090466,
+    "area": 801590.0
+  },
+  {
+    "name": "Kingdom of Lesotho",
+    "code": "LSO",
+    "population": 2116427,
+    "area": 30355.0
+  },
+  {
+    "name": "Democratic People's Republic of Korea",
+    "code": "PRK",
+    "population": 25950000,
+    "area": 120538.0
+  },
+  {
+    "name": "Republic of Singapore",
+    "code": "SGP",
+    "population": 6110200,
+    "area": 710.0
+  },
+  {
+    "name": "Principality of Monaco",
+    "code": "MCO",
+    "population": 38423,
+    "area": 2.02
+  },
+  {
+    "name": "Lebanese Republic",
+    "code": "LBN",
+    "population": 5490000,
+    "area": 10452.0
+  },
+  {
+    "name": "Republic of Serbia",
+    "code": "SRB",
+    "population": 6567783,
+    "area": 77589.0
+  },
+  {
+    "name": "Republic of Estonia",
+    "code": "EST",
+    "population": 1369995,
+    "area": 45227.0
+  },
+  {
+    "name": "Barbados",
+    "code": "BRB",
+    "population": 267800,
+    "area": 430.0
+  },
+  {
+    "name": "Republic of Mauritius",
+    "code": "MUS",
+    "population": 1243741,
+    "area": 2040.0
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "code": "SHN",
+    "population": 5651,
+    "area": 394.0
+  },
+  {
+    "name": "Kingdom of Belgium",
+    "code": "BEL",
+    "population": 11825551,
+    "area": 30528.0
+  },
+  {
+    "name": "State of Libya",
+    "code": "LBY",
+    "population": 7459000,
+    "area": 1759540.0
+  },
+  {
+    "name": "Republic of Nicaragua",
+    "code": "NIC",
+    "population": 6803886,
+    "area": 130373.0
+  },
+  {
+    "name": "State of Kuwait",
+    "code": "KWT",
+    "population": 4881254,
+    "area": 17818.0
+  },
+  {
+    "name": "New Caledonia",
+    "code": "NCL",
+    "population": 264596,
+    "area": 18575.0
+  },
+  {
+    "name": "French Republic",
+    "code": "FRA",
+    "population": 66351959,
+    "area": 543908.0
+  },
+  {
+    "name": "Socialist Republic of Vietnam",
+    "code": "VNM",
+    "population": 101343800,
+    "area": 331212.0
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "code": "VCT",
+    "population": 110872,
+    "area": 389.0
+  },
+  {
+    "name": "Kingdom of Bahrain",
+    "code": "BHR",
+    "population": 1594654,
+    "area": 765.0
+  },
+  {
+    "name": "Country of Cura\u00e7ao",
+    "code": "CUW",
+    "population": 156115,
+    "area": 444.0
+  },
+  {
+    "name": "People's Republic of Bangladesh",
+    "code": "BGD",
+    "population": 169828911,
+    "area": 147570.0
+  },
+  {
+    "name": "Republic of C\u00f4te d'Ivoire",
+    "code": "CIV",
+    "population": 31719275,
+    "area": 322463.0
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "code": "COD",
+    "population": 112832000,
+    "area": 2344858.0
+  },
+  {
+    "name": "Democratic Socialist Republic of Sri Lanka",
+    "code": "LKA",
+    "population": 21763170,
+    "area": 65610.0
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "code": "UMI",
+    "population": 0,
+    "area": 34.2
+  },
+  {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "code": "BES",
+    "population": 31980,
+    "area": 328.0
+  },
+  {
+    "name": "Federal Democratic Republic of Nepal",
+    "code": "NPL",
+    "population": 29911840,
+    "area": 147181.0
+  },
+  {
+    "name": "Plurinational State of Bolivia",
+    "code": "BOL",
+    "population": 11365333,
+    "area": 1098581.0
+  },
+  {
+    "name": "Republic of Namibia",
+    "code": "NAM",
+    "population": 3022401,
+    "area": 825615.0
+  },
+  {
+    "name": "Republic of Haiti",
+    "code": "HTI",
+    "population": 11867032,
+    "area": 27750.0
+  },
+  {
+    "name": "Republic of Suriname",
+    "code": "SUR",
+    "population": 616500,
+    "area": 163820.0
+  },
+  {
+    "name": "Saint Martin",
+    "code": "MAF",
+    "population": 31496,
+    "area": 53.0
+  },
+  {
+    "name": "Canada",
+    "code": "CAN",
+    "population": 41651653,
+    "area": 9984670.0
+  },
+  {
+    "name": "Republic of Honduras",
+    "code": "HND",
+    "population": 9892632,
+    "area": 112492.0
+  },
+  {
+    "name": "Vatican City State",
+    "code": "VAT",
+    "population": 882,
+    "area": 0.49
+  },
+  {
+    "name": "United Arab Emirates",
+    "code": "ARE",
+    "population": 11294243,
+    "area": 83600.0
+  },
+  {
+    "name": "Republic of Guinea",
+    "code": "GIN",
+    "population": 14363931,
+    "area": 245857.0
+  },
+  {
+    "name": "Republic of Cameroon",
+    "code": "CMR",
+    "population": 29442327,
+    "area": 475442.0
+  },
+  {
+    "name": "Republic of Cyprus",
+    "code": "CYP",
+    "population": 1442614,
+    "area": 9251.0
+  },
+  {
+    "name": "Republic of Trinidad and Tobago",
+    "code": "TTO",
+    "population": 1367764,
+    "area": 5130.0
+  },
+  {
+    "name": "Kingdom of Sweden",
+    "code": "SWE",
+    "population": 10605098,
+    "area": 450295.0
+  },
+  {
+    "name": "Republic of Madagascar",
+    "code": "MDG",
+    "population": 31727042,
+    "area": 587041.0
+  },
+  {
+    "name": "Department of Mayotte",
+    "code": "MYT",
+    "population": 320901,
+    "area": 374.0
+  },
+  {
+    "name": "Cayman Islands",
+    "code": "CYM",
+    "population": 84738,
+    "area": 264.0
+  },
+  {
+    "name": "Malaysia",
+    "code": "MYS",
+    "population": 34231700,
+    "area": 330803.0
+  },
+  {
+    "name": "Republic of Benin",
+    "code": "BEN",
+    "population": 13224860,
+    "area": 112622.0
+  },
+  {
+    "name": "Greenland",
+    "code": "GRL",
+    "population": 56542,
+    "area": 2166086.0
+  },
+  {
+    "name": "Swiss Confederation",
+    "code": "CHE",
+    "population": 9082848,
+    "area": 41284.0
+  },
+  {
+    "name": "Georgia",
+    "code": "GEO",
+    "population": 4000921,
+    "area": 69700.0
+  },
+  {
+    "name": "Republic of Ecuador",
+    "code": "ECU",
+    "population": 18103660,
+    "area": 276841.0
+  },
+  {
+    "name": "Republic of Cabo Verde",
+    "code": "CPV",
+    "population": 491233,
+    "area": 4033.0
+  },
+  {
+    "name": "Grand Duchy of Luxembourg",
+    "code": "LUX",
+    "population": 681973,
+    "area": 2586.0
+  },
+  {
+    "name": "Saint Lucia",
+    "code": "LCA",
+    "population": 184100,
+    "area": 616.0
+  },
+  {
+    "name": "Virgin Islands of the United States",
+    "code": "VIR",
+    "population": 87146,
+    "area": 347.0
+  },
+  {
+    "name": "Japan",
+    "code": "JPN",
+    "population": 123210000,
+    "area": 377930.0
+  },
+  {
+    "name": "Jamaica",
+    "code": "JAM",
+    "population": 2825544,
+    "area": 10991.0
+  },
+  {
+    "name": "Federal Democratic Republic of Ethiopia",
+    "code": "ETH",
+    "population": 111652998,
+    "area": 1104300.0
+  },
+  {
+    "name": "Islamic Republic of Pakistan",
+    "code": "PAK",
+    "population": 241499431,
+    "area": 796095.0
+  },
+  {
+    "name": "Montserrat",
+    "code": "MSR",
+    "population": 4386,
+    "area": 102.0
+  },
+  {
+    "name": "Republic of Lithuania",
+    "code": "LTU",
+    "population": 2894886,
+    "area": 65300.0
+  },
+  {
+    "name": "Hellenic Republic",
+    "code": "GRC",
+    "population": 10400720,
+    "area": 131990.0
+  }
+]
