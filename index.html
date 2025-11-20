@@ -36,9 +36,22 @@
         background: #2563eb;
         color: white;
         margin-right: 0.5rem;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
       }
       button.secondary {
         background: #4b5563;
+      }
+      .country-flag {
+        width: 24px;
+        height: 16px;
+        object-fit: cover;
+        border-radius: 2px;
+        box-shadow: 0 0 0 1px rgba(15, 23, 42, 0.6);
+      }
+      .country-name {
+        white-space: nowrap;
       }
       button:disabled {
         opacity: 0.6;

@@ -22,10 +22,27 @@ async function loadCountriesOnce() {
 }
 
 function renderPair(pair) {
-  leftButton.textContent = pair.left.name;
-  leftButton.dataset.code = pair.left.code;
-  rightButton.textContent = pair.right.name;
-  rightButton.dataset.code = pair.right.code;
+  const left = pair.left;
+  const right = pair.right;
+
+  leftButton.dataset.code = left.code;
+  rightButton.dataset.code = right.code;
+
+  const leftFlag = left.flagUrl;
+  const rightFlag = right.flagUrl;
+
+  if (leftFlag) {
+    leftButton.innerHTML = `<img class="country-flag" src="${leftFlag}" alt="Flag of ${left.name}" loading="lazy" /> <span class="country-name">${left.name}</span>`;
+  } else {
+    leftButton.textContent = left.name;
+  }
+
+  if (rightFlag) {
+    rightButton.innerHTML = `<img class="country-flag" src="${rightFlag}" alt="Flag of ${right.name}" loading="lazy" /> <span class="country-name">${right.name}</span>`;
+  } else {
+    rightButton.textContent = right.name;
+  }
+
   // Clear any previous size display until after a guess
   if (leftSizeEl) leftSizeEl.textContent = "";
   if (rightSizeEl) rightSizeEl.textContent = "";
